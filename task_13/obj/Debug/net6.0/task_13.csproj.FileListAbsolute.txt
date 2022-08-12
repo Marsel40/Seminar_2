@@ -1,0 +1,15 @@
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\task_13.csproj.AssemblyReference.cache
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\task_13.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\task_13.AssemblyInfoInputs.cache
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\task_13.AssemblyInfo.cs
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\task_13.csproj.CoreCompileInputs.cache
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\bin\Debug\net6.0\task_13.exe
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\bin\Debug\net6.0\task_13.deps.json
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\bin\Debug\net6.0\task_13.runtimeconfig.json
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\bin\Debug\net6.0\task_13.dll
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\bin\Debug\net6.0\task_13.pdb
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\task_13.dll
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\refint\task_13.dll
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\task_13.pdb
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\task_13.genruntimeconfig.cache
+C:\Users\marse\Desktop\Основы програмирования и базы данных\QA Тестировщик быстрый старт\Ivan LincovC#\Marsel Idrisov Home Work C#_2\Seminar_2\task_13\obj\Debug\net6.0\ref\task_13.dll
